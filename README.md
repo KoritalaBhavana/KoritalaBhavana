@@ -87,7 +87,7 @@ Production-grade RAG pipeline for legal Q&A — retrieves IPC sections via seman
 | Generative AI Professional | Oracle Cloud (OCI) | Oct 2027 |
 | Data Science Professional | Oracle Cloud (OCI) | Oct 2027 |
 | Azure Fundamentals (AZ-900) | Microsoft | — |
-| GitHub Copilot Certified | GitHub | — |
+| GitHub Copilot Certified | GitHub | Dec 2027 |
 
 ---
 
